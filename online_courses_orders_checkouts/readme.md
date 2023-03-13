@@ -1,7 +1,7 @@
 ## Краткое описание и содержание проекта:
-1. [A/B - тестирование](https://github.com/GerelMN/portfolio_projects/tree/main/online_courses_orders_checkouts#1-ab-тестирование)
-2. [SQL](https://github.com/GerelMN/portfolio_projects/tree/main/online_courses_orders_checkouts#2-sql)
-4. [Python](https://github.com/GerelMN/portfolio_projects/tree/main/online_courses_orders_checkouts#3-python)
+1. [A/B - тестирование](https://github.com/GerelMN/portfolio_projects/tree/main/online_courses_orders_checkouts#1-ab-тестирование-см-подробнее)
+2. [SQL](https://github.com/GerelMN/portfolio_projects/tree/main/online_courses_orders_checkouts#2-sql-см-подробнее)
+4. [Python](https://github.com/GerelMN/portfolio_projects/tree/main/online_courses_orders_checkouts#3-python-см-подробнее)
 
 ## 1. A/B-тестирование ([см. подробнее](https://github.com/GerelMN/portfolio_projects/blob/main/online_courses_orders_checkouts/AB_testing_online_courses.ipynb))
 
