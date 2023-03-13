@@ -1,7 +1,7 @@
 ## Краткое описание и содержание проекта:
-1. [A/B - тестирование](#1.-A/B-тестирование)
-2. [SQL](#2.-SQL)
-3. [Python](#3.-Python)
+1. [A/B - тестирование](#https://github.com/GerelMN/portfolio_projects/edit/main/online_courses_orders_checkouts/readme.md#1-ab-тестирование)
+2. [SQL](#https://github.com/GerelMN/portfolio_projects/edit/main/online_courses_orders_checkouts/readme.md#2-sql)
+3. [Python](#https://github.com/GerelMN/portfolio_projects/edit/main/online_courses_orders_checkouts/readme.md#3-python)
 
 ## 1. A/B-тестирование
 В ходе тестирования одной гипотезы целевой группе была предложена новая механика оплаты услуг на сайте, у контрольной группы оставалась базовая механика. 
