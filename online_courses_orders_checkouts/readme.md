@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Анализ платежей образовательной платформы
 [Назад](https://gerelmn.github.io/portfolio_projects/)
