@@ -1,4 +1,10 @@
+---
+layout: default
+---
+
 # Анализ платежей образовательной платформы
+[Назад](https://gerelmn.github.io/portfolio_projects/)
+
 ## Краткое описание и содержание проекта:
 1. [A/B - тестирование](https://gerelmn.github.io/portfolio_projects/online_courses_orders_checkouts/#1-ab-тестирование-см-подробнее)
 2. [SQL](https://gerelmn.github.io/portfolio_projects/online_courses_orders_checkouts/#2-sql-см-подробнее)
