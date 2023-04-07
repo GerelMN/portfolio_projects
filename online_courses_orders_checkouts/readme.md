@@ -87,12 +87,12 @@
 Активным считается пользователь, за все время решивший больше 10 задач правильно в любых дисциплинах.
 <br>Активным по математике считается пользователь, за все время решивший 2 или больше задач правильно по математике.
 
-**Решение:** В Python задано подключение к базе данных ClickHouse и создан запрос для расчета метрик
-**Результат запроса:** 
+**Решение:** В Python задано подключение к базе данных ClickHouse и создан запрос для расчета метрик  
+**Результат запроса:**  
 ![alt-текст](https://raw.githubusercontent.com/GerelMN/portfolio_projects/main/online_courses_orders_checkouts/dataset/2023-04-07_11-26-01.png)
 
 # 3. Python ([см. подробнее](https://github.com/GerelMN/portfolio_projects/blob/main/online_courses_orders_checkouts/python_online_courses.ipynb))
 Реализована функция, которая автоматически подгружает информацию из дополнительного файла и на основании дополнительных параметров пересчитывать метрики (AOV, CR, RPV). Так же реализована функция, которая строит графики по получаемым метрикам. 
-Результаты функций:
+**Результаты функций:**  
 ![alt-текст](https://raw.githubusercontent.com/GerelMN/portfolio_projects/main/online_courses_orders_checkouts/dataset/2023-04-07_11-27-15.png)
 ![alt-текст](https://raw.githubusercontent.com/GerelMN/portfolio_projects/main/online_courses_orders_checkouts/dataset/2023-04-07_11-27-46.png)
