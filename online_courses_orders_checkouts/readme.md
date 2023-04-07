@@ -54,8 +54,8 @@
 **Задача: Необходимо написать оптимальный запрос, который даст информацию о количестве очень усердных студентов.**
 <br>NB! Под очень усердным студентом мы понимаем студента, который правильно решил 20 задач за текущий месяц.
 
-**Решение:** В Python задано подключение к базе данных ClickHouse и создан запрос для подсчета количества усердных учеников
-**Результат запроса:** 
+**Решение:** В Python задано подключение к базе данных ClickHouse и создан запрос для подсчета количества усердных учеников  
+**Результат запроса:**  
 ![alt-текст](https://raw.githubusercontent.com/GerelMN/portfolio_projects/main/online_courses_orders_checkouts/dataset/2023-04-07_11-26-39.png)
 
 **2.2. Условие:**  
@@ -92,7 +92,7 @@
 ![alt-текст](https://raw.githubusercontent.com/GerelMN/portfolio_projects/main/online_courses_orders_checkouts/dataset/2023-04-07_11-26-01.png)
 
 # 3. Python ([см. подробнее](https://github.com/GerelMN/portfolio_projects/blob/main/online_courses_orders_checkouts/python_online_courses.ipynb))
-Реализована функция, которая автоматически подгружает информацию из дополнительного файла и на основании дополнительных параметров пересчитывать метрики (AOV, CR, RPV). Так же реализована функция, которая строит графики по получаемым метрикам. 
+Реализована функция, которая автоматически подгружает информацию из дополнительного файла и на основании дополнительных параметров пересчитывать метрики (AOV, CR, RPV). Так же реализована функция, которая строит графики по получаемым метрикам.  
 **Результаты функций:**  
 ![alt-текст](https://raw.githubusercontent.com/GerelMN/portfolio_projects/main/online_courses_orders_checkouts/dataset/2023-04-07_11-27-15.png)
 ![alt-текст](https://raw.githubusercontent.com/GerelMN/portfolio_projects/main/online_courses_orders_checkouts/dataset/2023-04-07_11-27-46.png)
