@@ -2,8 +2,8 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Проекты по анализу данных]
-description: [Манджиева Герел <br> Telegram @GerelMN  email Gerelmn@yandex.ru]
+description: [Манджиева Герел <br> Telegram&#58 @GerelMN&#44   Email&#58 Gerelmn@yandex.ru]
 show_downloads: true
 github:
   zip_url: https://hh.ru/applicant/resumes/view?resume=d9d16da8ff0bbadef30039ed1f576b73713148
-  another_url: another value
+  
